@@ -9,6 +9,6 @@ The code of MRGCDDI: Multi-Relation Graph Contrastive Learning without Data Augm
 
 ### 快速安装
 ```bash
-git clone 
+git clone https://github.com/Nokeli/MRGCDDI.git
 cd MOLGAECL
 pip install -r requirements.txt
